@@ -1,0 +1,191 @@
+[
+    {
+        "id":"1",
+        "img":"https://cdn.shopify.com/s/files/1/0055/7855/5503/products/1copy16_fbea02e5-a415-4ca7-bf1a-1489c2026610_300x.jpg?v=1672660492",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name":"Travel and toilet",
+        "productBrand":"Peesafe",
+        "Category":"Standpee",
+        "price":1000,
+        "rating":4.5
+
+    },
+    {
+        "id":"2",
+        "img":"https://files.thesirona.com/site-images/400x400/non-app-tampon-p2.jpg",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name":"Wow Menstual cup",
+        "productBrand":"Wow",
+        "Category":"Menstual cup",
+        "price":800,
+        "rating":4.5
+
+    },
+    {
+        "id":"3",
+        "img":"https://files.thesirona.com/site-images/800x800/rash-free-sanitary-pads-xl-30-2.jpg",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name":"Extra large pads Whisper",
+        "productBrand":"Whisper",
+        "Category":"Pads",
+        "price":400,
+        "rating":4.5
+
+    },
+    {
+        "id":"4",
+        "img":"https://files.thesirona.com/site-images/400x400/menstrual-cup-life-combo-large--2.jpg",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name":"Reuseable periods panty",
+        "productBrand":"Peesafe",
+        "Category":"Pads",
+        "price":200,
+        "rating":4.5
+
+    },
+    {
+        "id": "5",
+        "img": "https://files.thesirona.com/site-images/400x400/non-app-tampon-p2.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name": "cotton Tampons Sirona",
+        "productBrand": "Sirona",
+        "Category": "Tampons",
+        "price": 450,
+        "rating": 4.6
+      },
+      {
+        "id": "6",
+        "img": "https://cdn.shopify.com/s/files/1/0055/7855/5503/products/Artboard5-1_1_300x.png?v=1658747671",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name": "Antibacteria Panty Liners",
+        "productBrand": "Peesafe",
+        "Category": "Panty-Liners",
+        "price": 100,
+        "rating": 4.0
+      },
+      {
+        "id": "7",
+        "img": "https://files.thesirona.com/site-images/400x400/menstrual-cup-life-combo-large--2.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name": "Sirona Menstrual cup",
+        "productBrand": "Sirona",
+        "Category": "Menstrual Cup",
+        "price": 350,
+        "rating": 4.7
+      },
+      {
+        "id": "8",
+        "img": "https://files.thesirona.com/site-images/800x800/rash-free-sanitary-pads-xl-30-2.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name": "Pads for nights",
+        "productBrand": "Stayfree",
+        "Category": "Pads",
+        "price": 190,
+        "rating": 4.4
+      },
+      {
+        "id": "9",
+        "img": "https://cdn.shopify.com/s/files/1/0055/7855/5503/products/Primary_300x.jpg?v=1672038980",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name": "Antibacteria Tampons Peesafe",
+        "productBrand": "Peesafe",
+        "Category": "Tampons",
+        "price": 220,
+        "rating": 4.9
+      },
+    {
+        "id":"10",
+        "img":"https://cdn.shopify.com/s/files/1/0055/7855/5503/products/1copy16_fbea02e5-a415-4ca7-bf1a-1489c2026610_300x.jpg?v=1672660492",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name":"Travel and toilet",
+        "productBrand":"Peesafe",
+        "Category":"Standpee",
+        "price":1000,
+        "rating":4.5
+
+    },
+    {
+        "id":"11",
+        "img":"https://cdn.shopify.com/s/files/1/0055/7855/5503/files/Menstrualcupsizes_00c1379d-ce94-480d-917a-17961f2d7761_300x.jpg?v=1685699286",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name":"Wow Menstual cup",
+        "productBrand":"Wow",
+        "Category":"Menstual cup",
+        "price":800,
+        "rating":4.5
+
+    },
+    {
+        "id":"12",
+        "img":"https://files.thesirona.com/site-images/800x800/rash-free-sanitary-pads-xl-30-2.jpg",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name":"Wow Menstual cup",
+        "productBrand":"Wow",
+        "Category":"Menstual cup",
+        "price":800,
+        "rating":4.5
+
+    },
+    {
+        "id":"13",
+        "img":"https://files.thesirona.com/site-images/400x400/menstrual-cup-life-combo-large--2.jpg",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name":"Extra large pads Whisper",
+        "productBrand":"whisper",
+        "Category":"Pads",
+        "price":400,
+        "rating":4.5
+
+    },
+    {
+        "id":"14",
+        "img":"https://files.thesirona.com/site-images/800x800/rash-free-sanitary-pads-xl-30-2.jpg",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name":"Reuseable periods panty",
+        "productBrand":"Peesafe",
+        "Category":"Pads",
+        "price":200,
+        "rating":4.5
+
+    },
+    {
+        "id": "15",
+        "img": "https://files.thesirona.com/site-images/400x400/non-app-tampon-p2.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name": "cotton Tampons Sirona",
+        "productBrand": "Sirona",
+        "Category": "Tampons",
+        "price": 450,
+        "rating": 4.6
+      },
+      {
+        "id": "16",
+        "img": "https://cdn.shopify.com/s/files/1/0055/7855/5503/products/Artboard5-1_1_300x.png?v=1658747671",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name": "Antibacteria Panty Liners",
+        "productBrand": "Peesafe",
+        "Category": "Panty Liners",
+        "price": 100,
+        "rating": 4.0
+      },
+      {
+        "id": "17",
+        "img": "https://files.thesirona.com/site-images/400x400/menstrual-cup-life-combo-large--2.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name": "Sirona Menstrual cup",
+        "productBrand": "Sirona",
+        "Category": "Menstrual Cup",
+        "price": 350,
+        "rating": 4.7
+      },
+      {
+        "id": "18",
+        "img": "https://files.thesirona.com/site-images/800x800/rash-free-sanitary-pads-xl-30-2.jpg",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "name": "Pads for nights",
+        "productBrand": "stayfree",
+        "Category": "Pads",
+        "price": 190,
+        "rating": 4.4
+      }
+]
